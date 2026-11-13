@@ -1,5 +1,5 @@
-# the-swan-foundation.github.io
+# open-colibri.github.io
 
-Organization site of The Swan Foundation. It redirects to [The Swan Starter](https://the-swan-foundation.github.io/starter/) (repository `the-swan-foundation/starter`); the documentation is at [/starter/docs/](https://the-swan-foundation.github.io/starter/docs/).
+Organization site of OpenColibri. It redirects to [Colibri Starter](https://open-colibri.github.io/starter/) (repository `open-colibri/starter`); the documentation is at [/starter/docs/](https://open-colibri.github.io/starter/docs/).
 
 GitHub Pages serves this repository from the root of the `main` branch.
